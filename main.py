@@ -78,11 +78,8 @@ Here is a summary of the performance results for Task 2, where the time taken fo
 ### Plots:
 Below are the performance comparison plots:
 
-#### Cache Performance for Range Sum and Update Queries
-![Cache Performance](cache_performance.png)
-
 #### Fibonacci Calculation Performance (LRU Cache vs Splay Tree)
-![Fibonacci Calculation Performance](fibonacci_comparison.png)
+![Fibonacci Calculation Performance](./plots/fibonacci_comparison.png)
 
 ## Conclusion
 
