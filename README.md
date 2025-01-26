@@ -65,7 +65,7 @@ Below are the performance comparison plots:
 ![Cache Performance](cache_performance.png)
 
 #### Fibonacci Calculation Performance (LRU Cache vs Splay Tree)
-![Fibonacci Calculation Performance](fibonacci_comparison.png)
+![Fibonacci Calculation Performance](./plots/fibonacci_comparison.png)
 
 ## Conclusion
 
